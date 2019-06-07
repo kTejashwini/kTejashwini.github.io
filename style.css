@@ -4,5 +4,11 @@
                 background:yellow;
             }
             #first{
-                color:yellow;background:red;
+                background:light blue;
             }
+#box{
+    background:yellow
+    width:600
+    margin:100 auto
+        
+}
