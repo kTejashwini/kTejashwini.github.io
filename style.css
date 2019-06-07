@@ -6,9 +6,10 @@
             #first{
                 background:light blue;
             }
-#box{
-    background:yellow;
-    width:600;
-    margin:100 auto;
+        #box{
+            background:yellow;
+            width:600px;
+            margin:100px auto;
+            padding:50px
         
-}
+    }
